@@ -1,6 +1,5 @@
-U-Net segmentation of 3D micro-CT images of rooted soils using label data from multi-physics simulators.
+# U-Net segmentation of 3D micro-CT images of rooted soils using label data from multi-physics simulators.
 
----
 
 ## In a nutshell
 
@@ -13,7 +12,7 @@ The health of soil is equally important as the health of humans; soil has to be 
 
 ## Resources
 
-- Publications
+- Research
 	- 3D U-NET Learning dense volumetric segmentation from sparse annotation [link](https://arxiv.org/abs/1606.06650).
 	- Trainable Weka Segmentation: a machine learning tool for microscopy pixel classification [link](10.1093/bioinformatics/btx180).
 	- Hydro-micromechanical modeling of wave propagation in saturated granular crystals [link](https://onlinelibrary.wiley.com/doi/10.1002/nag.2920).
