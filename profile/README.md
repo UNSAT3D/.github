@@ -33,4 +33,7 @@ The health of soil is equally important as the health of humans; soil has to be 
 
 ## Other
 
+The project log is available [here](https://github.com/UNSAT3D/.github/blob/main/profile/log.md).
+
+---
 Project logo: <a href="https://www.flaticon.com/free-icons/soil" title="soil icons">Soil icons created by Freepik - Flaticon</a>
