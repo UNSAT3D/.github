@@ -7,3 +7,14 @@
     - [data](https://github.com/UNSAT3D/sandbox)
     - [sandbox](https://github.com/UNSAT3D/sandbox)
 - Took a first look at the data and found the following [issues](https://github.com/UNSAT3D/data/issues) to be discussed in our upcoming meeting
+
+## 2023-06-09
+
+- The project's engineers are officially introduced:
+    - Pablo Rodríguez-Sánchez (lead)
+    - Aron Jansen
+    
+## 2023-03-01
+
+- Official start date
+    - Postponed to 2023-10-01

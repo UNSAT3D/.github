@@ -1,4 +1,4 @@
-# U-Net segmentation of 3D micro-CT images of rooted soils using label data from multi-physics simulators.
+# U-Net segmentation of 3D micro-CT images of rooted soils using label data from multi-physics simulators
 
 
 ## In a nutshell
