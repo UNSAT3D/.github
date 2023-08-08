@@ -4,6 +4,16 @@
 ## Continue here
 
 Newer entries above.
+
+## 2023-08-08. Change of roles
+
+As of today:
+
+- Aron is the lead engineer of this project.
+- Pablo R. is just another engineer.
+
+We did this in order to ensure Aron can lead one project and Pablo R. doesn't have to lead two.
+
 ## 2023-07-19. Data inspection meeting
 
 - Location: Amsterdam
