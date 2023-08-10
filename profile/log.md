@@ -14,6 +14,25 @@ As of today:
 
 We did this in order to ensure Aron can lead one project and Pablo R. doesn't have to lead two.
 
+## 2023-07-22. Data decisions
+
+Hongyang mailed us their decisions on what data to prepare:
+- 2D:
+	- randomize: saturation degree, particule configuration
+	- particle size distribution modelled after X-ray images
+	- Not sure how many
+- 3D:
+	- Sub-volumes cropped from X-ray images
+	- particles approximated as spheres with radii such that volume is preserved.
+	- Aim for around 10
+
+Plan:
+1. Try 2D UNet on 2D data
+2. Try 2D UNet on slides of 3D data
+3. ? train 3D Unet
+
+source of UNets: https://paperswithcode.com/method/u-net
+
 ## 2023-07-19. Data inspection meeting
 
 - Location: Amsterdam
