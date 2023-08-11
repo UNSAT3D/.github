@@ -4,8 +4,7 @@
 ## In a nutshell
 
 - [Project site](https://research-software-directory.org/projects/unsat)
-- Project [folder](https://nlesc.sharepoint.com/sites/all/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000CCE69989D256F742A5691034FA2C9033&id=%2Fsites%2Fall%2FShared%20Documents%2FProjectportfolio%2FProjects%2F27022S25%20U%2DNet%20segmentation%20of%203D%20micro%2DCT%20images%20of%20rooted%20soils%20using%20label%20data%20from%20multi%2Dphysics%20simulators&viewid=8c7214e3%2Ddfc5%2D4ffa%2Dac92%2D421aab48d30f) (private access)
-- Project [log](https://github.com/UNSAT3D/.github/blob/main/profile/log.md)
+- [Team Nabla's repository](https://github.com/Team-Nabla/UNSAT) (private access for eScience members only)
 
 ## Abstract
 
