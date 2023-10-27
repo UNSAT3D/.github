@@ -23,7 +23,9 @@ The health of soil is equally important as the health of humans; soil has to be 
 - Software
 	- [U-NET](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - Datasets
-	- X-ray Computed Tomography Reconstructions of Partially Saturated  Vegetated Sand [link](https://doi.org/10.4121/21294510.v1)
+	- X-ray Computed Tomography Reconstructions of Partially Saturated  Vegetated Sand 
+        - The published selection: [link](https://doi.org/10.4121/21294510.v1)
+        - A bigger 30Gb selection on [surfdrive](https://surfdrive.surf.nl/files/index.php/s/ctJGysS6crTiAsO)
 	- Phase field data generated from coupled Lattice Boltzmann-discrete element simulations [link](https://doi.org/10.4121/21272874)
 	- Rooted soil observed in vivo in 4D through x-ray CT [link](https://github.com/FloAns/Rooted_Soil-Tomograph_Image-Processing)
 - Learning materials
